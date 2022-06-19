@@ -1,0 +1,367 @@
+@media screen and(min-width:1180px) {
+  /* ヘルパークラス */
+  .hp_pc-br {
+    display: none;
+  }
+}
+
+/*--------------------------------
+タブレット
+--------------------------------*/
+@media screen and(max-width:959px) {
+  .ly_fv {
+    background-position-x: 53%;
+    background-size: cover;
+  }
+  .el_fv_copy {
+    font-size: 3rem;
+  }
+
+  /* concept */
+  #concept {
+    .bl_section {
+      flex-direction: column-reverse;
+      max-width: 700px;
+    }
+    .bl_section_body {
+      padding-left: 0;
+    }
+  }
+  #concept-p {
+    .bl_section {
+      flex-direction: column;
+      max-width: 700px;
+    }
+    .bl_section_body {
+      padding-left: 0;
+    }
+  }
+  #concept_feature {
+    .bl_section {
+      &_txt {
+        width: 60%;
+        margin: 0 auto;
+        margin-bottom: 50px;
+        &:last-child {
+          margin-bottom: 0px;
+        }
+      }
+    }
+  }
+  /* beginner */
+  #beginner {
+    .bl_section {
+      &_txt {
+        width: 60%;
+        margin: 0 auto;
+        margin-bottom: 50px;
+        &:last-child {
+          margin-bottom: 0px;
+        }
+      }
+    }
+  }
+  /* menu */
+  #menu {
+    .bl_section {
+      flex-direction: column-reverse;
+      max-width: 700px;
+    }
+    .bl_section_body {
+      padding-left: 0;
+      width: 100%;
+    }
+    .bl_card {
+      width: 80%;
+      max-width: 300px;
+      margin: 0 auto 30px auto;
+      &:last-child {
+        margin-bottom: 0px;
+      }
+    }
+  }
+  /* company */
+  #company {
+    .bl_section {
+      flex-direction: column-reverse;
+      max-width: 700px;
+    }
+    .bl_section_body {
+      padding-left: 0;
+    }
+  }
+  /* news */
+  #news {
+    .bl_section {
+      &_txt {
+        width: 80%;
+        margin: 0 auto;
+        margin-bottom: 50px;
+        &:last-child {
+          margin-bottom: 0px;
+        }
+      }
+    }
+  }
+  /* footer */
+  #access {
+    .ggmap iframe,
+    .ggmap object,
+    .ggmap embed {
+      width: 100%;
+    }
+  }
+  #access.ly_section {
+    padding-left: 0vw;
+    padding-right: 0vw;
+  }
+
+  #beginner_flow {
+    .bl_section_body {
+      margin-right: auto;
+      margin-left: auto;
+      margin-bottom: 50px;
+      width: 70%;
+      min-width: 300px;
+      margin-top: 0;
+    }
+  }
+  #faq-p {
+    .bl_faq {
+      &_item {
+        &_question {
+          padding-left: 0;
+          padding-right: 0;
+          div i {
+            font-size: 3rem;
+          }
+        }
+      }
+    }
+    #question .bl_faq_container .bl_faq_list:first-child::after {
+      width: 150px;
+      height: 150px;
+      top: -90.5px;
+      right: -71px;
+    }
+    .bl_faq_container {
+      position: relative;
+      .bl_faq_list:first-child::after {
+      }
+    }
+    .bl_faq_item_answer {
+      padding-left: 30px;
+      padding-right: 10px;
+    }
+  }
+  #menu-p {
+    .bl_section_txt {
+      width: 80%;
+      margin-right: auto;
+      margin-left: auto;
+      display: table;
+    }
+  }
+
+  /* ヘルパークラス */
+  .hp_br-tb {
+    display: block;
+  }
+  .hp_br-pc {
+    display: none;
+  }
+  .hp_column_tb {
+    flex-direction: column !important;
+  }
+  .hp_column_tb-reverse {
+    flex-direction: column-reverse !important;
+  }
+}
+
+@media screen and(max-width:768px) {
+  .bl_cardUnit.bl_cardUnit__col2 {
+    margin-bottom: -20px;
+  }
+  .bl_cardUnit > .bl_card {
+    width: 60%;
+    margin-bottom: 20px;
+    margin-right: 0;
+  }
+}
+
+/*--------------------------------
+スマホ
+--------------------------------*/
+
+@media screen and(min-width:519px) {
+  a[href^="tel:"] {
+    pointer-events: none;
+  }
+}
+@media screen and(max-width:519px) {
+  /* フォントサイズ */
+  // h1 {
+  //   font-size: 3rem;
+  // }
+  // h2 {
+  //   font-size: 2.4rem;
+  // }
+  // h3 {
+  //   font-size: 2rem;
+  // }
+  // h4 {
+  //   font-size: 1.6rem;
+  // }
+  .loading-animation {
+    .el_logo {
+      width: 180px;
+    }
+  }
+
+  body {
+    font-size: 1.4rem;
+    line-height: 1.6em;
+  }
+  .bl_drawer {
+    width: 330px;
+    padding-top: 50px;
+    &_item {
+      margin-bottom: 10px;
+    }
+    &_list {
+      margin-bottom: 20px;
+    }
+  }
+  .bl_drawerBtn {
+    left: -250px;
+  }
+  .el_section_lead {
+    margin-top: 80px;
+  }
+
+  /* concept */
+  #concept {
+    .bl_section_body {
+      text-align: center;
+    }
+  }
+  .bg1 {
+    padding-left: 0;
+  }
+  /* beginner */
+  #beginner {
+    .bl_section {
+      &_txt {
+        width: 80%;
+        margin: 0 auto;
+        margin-bottom: 40px;
+        &:last-child {
+          margin-bottom: 0px;
+        }
+      }
+    }
+  }
+  /* menu */
+  #menu {
+    .bl_section_body {
+      text-align: center;
+    }
+  }
+  /* company */
+  #company {
+    .bl_section_body {
+      text-align: center;
+    }
+  }
+  /* news */
+  #news {
+    .bl_section {
+      &_txt {
+        width: 80%;
+        margin: 0 auto;
+        margin-bottom: 40px;
+        &:last-child {
+          margin-bottom: 0px;
+        }
+      }
+    }
+  }
+  /* footer */
+  footer {
+    .bl_footerNav {
+      &_list a {
+        margin-right: 0px;
+        margin-bottom: 10px;
+        &:last-child {
+          &:last-child {
+            margin-bottom: 0px;
+          }
+        }
+      }
+    }
+  }
+
+  #menu-p {
+    .bl_cardUnit__col2 > .bl_card {
+      width: 80%;
+    }
+    .bl_section_txt {
+      width: 80%;
+      margin-left: auto;
+      margin-right: auto;
+    }
+    small {
+      margin-top: 20px;
+    }
+  }
+
+  /* ヘルパークラス */
+  .hp_br-sp {
+    display: block;
+  }
+
+  .hp_column_sp {
+    flex-direction: column !important;
+  }
+  .hp_column_sp-reverse {
+    flex-direction: column-reverse !important;
+  }
+
+  .hp_mtLg {
+    margin-top: 80px;
+  }
+  .hp_mbLg {
+    margin-bottom: 80px;
+  }
+  .hp_mtMd {
+    margin-top: 50px;
+  }
+  .hp_mbMd {
+    margin-bottom: 50px;
+  }
+  .hp_mtSm {
+    margin-top: 20px;
+  }
+  .hp_mbSm {
+    margin-bottom: 20px;
+  }
+
+  .hp_ptLg {
+    padding-top: 80px;
+  }
+  .hp_pbLg {
+    padding-bottom: 80px;
+  }
+  .hp_ptMd {
+    padding-top: 50px;
+  }
+  .hp_pbMd {
+    padding-bottom: 50px;
+  }
+  .hp_ptSm {
+    padding-top: 20px;
+  }
+  .hp_pbSm {
+    padding-bottom: 20px;
+  }
+}
