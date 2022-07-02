@@ -40,7 +40,7 @@ loading animation
   justify-content: center;
   opacity: 0;
   visibility: hidden;
-  .el_logo{
+  .el_logo {
     width: 300px;
   }
 }
@@ -60,7 +60,6 @@ fv
   height: 100vh;
   width: 100vw;
   position: relative;
-  z-index: -2;
   overflow: hidden;
   &::before {
     /* 透過させた黒を重ねる */
@@ -73,6 +72,15 @@ fv
     left: 0;
     content: " ";
     z-index: -1;
+  }
+}
+.el_icon_wrapper {
+  position: fixed;
+  top: 88%;
+  right: 10px;
+  transform: translateY(-50%);
+  .el_icon:first-child {
+    margin-bottom: 10px;
   }
 }
 .el_fv_copy {

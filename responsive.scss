@@ -9,6 +9,14 @@
 タブレット
 --------------------------------*/
 @media screen and(max-width:959px) {
+  header {
+    .ly_header_inner {
+      .el_info {
+        margin-right: 50px;
+        line-height: 1.5;
+      }
+    }
+  }
   .ly_fv {
     background-position-x: 53%;
     background-size: cover;
@@ -217,10 +225,12 @@
       width: 180px;
     }
   }
-
   body {
     font-size: 1.4rem;
     line-height: 1.6em;
+  }
+  .el_icon {
+    width: 35px;
   }
   .bl_drawer {
     width: 330px;
@@ -237,6 +247,14 @@
   }
   .el_section_lead {
     margin-top: 80px;
+  }
+
+  header {
+    .ly_header_inner {
+      .el_info {
+        display: none;
+      }
+    }
   }
 
   /* concept */

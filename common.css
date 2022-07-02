@@ -36,6 +36,10 @@ img {
   margin: 0 auto;
 }
 
+.el_icon {
+  width: 50px;
+}
+
 .el_logo {
   -webkit-transition: ease 0.7s;
   transition: ease 0.7s;
@@ -352,17 +356,35 @@ body.noscroll {
 ヘッダー
 --------------------------------*/
 header {
+  z-index: 999;
   width: 100%;
 }
 
 header .ly_header_inner {
   padding-left: 4vw;
   padding-right: 4vw;
-  max-width: 1180px;
+  max-width: 1580px;
   margin: 0 auto;
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
+}
+
+header .ly_header_inner .el_info {
+  margin-right: 30px;
+  line-height: 1.5;
+}
+
+header .ly_header_inner .el_tel {
+  font-size: 2rem;
+  color: #707070;
+  font-family: garamond-premier-pro, serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+header .ly_header_inner small {
+  font-size: 1rem;
 }
 
 header .el_logo {

@@ -7,6 +7,16 @@ Template Name: フロントページ
 <!-- fv -->
 <div class="ly_fv">
     <div class="el_fv_copy">キレイ<span>を</span>ずっと、もっと。</div>
+    <div class="el_icon_wrapper">
+        <div class="el_icon">
+            <a href="https://www.instagram.com/endless_fuk/" target="_blank" rel="noopener noreferrer"><img
+                    src="<?php bloginfo('template_url');?>/img/icon_insta.png" alt="インスタグラムのリンクアイコン" /></a>
+        </div>
+        <div class="el_icon">
+            <a class="el_icon" href=" https://lin.ee/L4XhGzx" target="_blank" rel="noopener noreferrer"><img
+                    src="<?php bloginfo('template_url');?>/img/icon_line.png" alt="ラインのリンクアイコン" /></a>
+        </div>
+    </div>
 </div>
 <!-- concept -->
 <section class="ly_section hp_ptLg hp_pbLg" id="concept">
@@ -169,7 +179,7 @@ Template Name: フロントページ
             </p>
             <a href="https://beauty.hotpepper.jp/kr/slnH000501559/" class="el_btn hp_mtSm"><span>HOTPEPPER
                     BEAUTY</span></a>
-            <p class="hp_mtMd">福岡県福岡市博多区博多駅東1-13-17
+            <p class="hp_mtMd"><i class="fa-solid fa-location-dot" style="margin-right: 10px"></i>福岡県福岡市博多区博多駅東1-13-17
                 <br class="hp_br-sp">松岡ビル7階
             </p>
             <div class="ggmap hp_mtSm">

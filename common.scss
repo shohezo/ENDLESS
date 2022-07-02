@@ -50,6 +50,9 @@ $green: #52b2ac;
   max-width: 1180px;
   margin: 0 auto;
 }
+.el_icon {
+  width: 50px;
+}
 .el_logo {
   -webkit-transition: ease 0.7s;
   transition: ease 0.7s;
@@ -327,13 +330,28 @@ body.noscroll {
 ヘッダー
 --------------------------------*/
 header {
+  z-index: 999;
   width: 100%;
   .ly_header_inner {
     padding-left: 4vw;
     padding-right: 4vw;
-    max-width: 1180px;
+    max-width: 1580px;
     margin: 0 auto;
     align-items: center;
+    .el_info {
+      margin-right: 30px;
+      line-height: 1.5;
+    }
+    .el_tel {
+      font-size: 2rem;
+      color: $black;
+      font-family: garamond-premier-pro, serif;
+      font-weight: 400;
+      font-style: normal;
+    }
+    small {
+      font-size: 1rem;
+    }
   }
   .el_logo {
     padding: 20px 0px;

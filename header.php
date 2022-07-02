@@ -79,6 +79,10 @@
                 <a href="<?php echo esc_url(home_url('/'));?>"><img
                         src="<?php bloginfo('template_url');?>/img/ENDLESS_logo.png" alt="店舗ロゴ" /></a>
             </div>
+            <div class="el_info">
+                <a href="tel:+81-092-710-5907" class="el_tel">092-710-5907</a><br>
+                <small>受付時間 11：00〜20：00</small>
+            </div>
         </div>
     </header>
     <!-- パンくずリスト -->
