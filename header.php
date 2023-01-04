@@ -47,6 +47,9 @@
             <a href="<?php bloginfo('url');?>/faq">FAQ</a><span>よくある質問</span>
         </li>
         <li class="bl_drawer_item">
+            <a href="<?php bloginfo('url');?>/recruit">RECRUIT</a><span>求人情報</span>
+        </li>
+        <li class="bl_drawer_item">
             <a href="<?php bloginfo('url');?>/contact">CONTACT</a><span>お問い合わせ</span>
         </li>
         <!-- <li class="bl_drawer_item">

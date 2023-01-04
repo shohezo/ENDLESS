@@ -267,6 +267,16 @@
   #menu-p small {
     margin-top: 20px;
   }
+  #recruit .bl_recruit dt {
+    float: none;
+    width: unset;
+    padding-bottom: 8px;
+  }
+  #recruit .bl_recruit .bl_recruit_definition {
+    padding-top: 0px;
+    width: 100%;
+    float: none;
+  }
   /* ヘルパークラス */
   .hp_br-sp {
     display: block;

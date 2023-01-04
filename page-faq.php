@@ -24,7 +24,7 @@ Template Name: faqページ
                 </div>
             </ul>
             <ul class="bl_faq_list">
-                <li class="bl_faq_item_question open">
+                <li class="bl_faq_item_question">
                     <div class="hp_flex hp_aic">
                         <p>シェービング料はかかりますか？</p>
                     </div>
@@ -39,7 +39,7 @@ Template Name: faqページ
                 </div>
             </ul>
             <ul class="bl_faq_list">
-                <li class="bl_faq_item_question open">
+                <li class="bl_faq_item_question">
                     <div class="hp_flex hp_aic">
                         <p>毛の質や量で料金は変わりますか？</p>
                     </div>
@@ -53,7 +53,7 @@ Template Name: faqページ
                 </div>
             </ul>
             <ul class="bl_faq_list">
-                <li class="bl_faq_item_question open">
+                <li class="bl_faq_item_question">
                     <div class="hp_flex hp_aic">
                         <p>学生割引はありますか？</p>
                     </div>
@@ -67,7 +67,7 @@ Template Name: faqページ
                 </div>
             </ul>
             <ul class="bl_faq_list">
-                <li class="bl_faq_item_question open">
+                <li class="bl_faq_item_question">
                     <div class="hp_flex hp_aic">
                         <p>乗り換え割はありますか？</p>
                     </div>
@@ -82,7 +82,7 @@ Template Name: faqページ
                 </div>
             </ul>
             <ul class="bl_faq_list">
-                <li class="bl_faq_item_question open">
+                <li class="bl_faq_item_question">
                     <div class="hp_flex hp_aic">
                         <p>友達と一緒に通えますか？</p>
                     </div>
@@ -97,7 +97,7 @@ Template Name: faqページ
                 </div>
             </ul>
             <ul class="bl_faq_list">
-                <li class="bl_faq_item_question open">
+                <li class="bl_faq_item_question">
                     <div class="hp_flex hp_aic">
                         <p>痛みはありますか？</p>
                     </div>
@@ -112,7 +112,7 @@ Template Name: faqページ
                 </div>
             </ul>
             <ul class="bl_faq_list">
-                <li class="bl_faq_item_question open">
+                <li class="bl_faq_item_question">
                     <div class="hp_flex hp_aic">
                         <p>脱毛のメリットはありますか？</p>
                     </div>
@@ -127,7 +127,7 @@ Template Name: faqページ
                 </div>
             </ul>
             <ul class="bl_faq_list">
-                <li class="bl_faq_item_question open">
+                <li class="bl_faq_item_question">
                     <div class="hp_flex hp_aic">
                         <p>脱毛中の自己処理はどうしたら？</p>
                     </div>
@@ -142,7 +142,7 @@ Template Name: faqページ
                 </div>
             </ul>
             <ul class="bl_faq_list">
-                <li class="bl_faq_item_question open">
+                <li class="bl_faq_item_question">
                     <div class="hp_flex hp_aic">
                         <p>肌が弱くても脱毛できますか？</p>
                     </div>
@@ -157,7 +157,7 @@ Template Name: faqページ
                 </div>
             </ul>
             <ul class="bl_faq_list">
-                <li class="bl_faq_item_question open">
+                <li class="bl_faq_item_question">
                     <div class="hp_flex hp_aic">
                         <p>お化粧はしてきても良いですか？</p>
                     </div>
@@ -172,7 +172,7 @@ Template Name: faqページ
                 </div>
             </ul>
             <ul class="bl_faq_list">
-                <li class="bl_faq_item_question open">
+                <li class="bl_faq_item_question">
                     <div class="hp_flex hp_aic">
                         <p>何回くらいで綺麗になりますか？</p>
                     </div>

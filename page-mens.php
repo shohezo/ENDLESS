@@ -57,7 +57,7 @@ Template Name:メンズページ
                         <p class="bl_card_price">
                             <span>月額 </span>5,300 <span>円〜</span>
                         </p>
-                        <p>回数／6回
+                        <p>回数／5回
                         </p>
                     </div>
                 </div>
@@ -71,7 +71,7 @@ Template Name:メンズページ
                         <p class="bl_card_price">
                             <span>月額 </span>4,800 <span>円〜</span>
                         </p>
-                        <p>回数／6回
+                        <p>回数／5回
                         </p>
                     </div>
                 </div>
@@ -120,26 +120,6 @@ Template Name:メンズページ
                 </span><br />
                 当店ではバーコード決済、各種電子マネー等キャッシュレスへ順次移行中です。使用可能な種類は都度お尋ねください。
             </p>
-        </div>
-    </div>
-</section>
-<section class="ly_section hp_pbLg" id="concept_reserved">
-    <div class="ly_inner">
-        <div class="bl_section hp_tac hp_ptSm">
-            <h2 class="el_section_lead">ご予約</h2>
-            <span class="el_section_subLead hp_mbSm">RESERVED</span>
-            <p class="hp_mbSm">
-                お問い合わせはお電話、または<br class="hp_br-sp">公式LINEアカウントでお待ちしております。
-            </p>
-            <a href="tel:+81-092-710-5907" class="el_tel">092-710-5907</a>
-            <br>
-            <a href="https://lin.ee/L4XhGzx" class="el_btn hp_mtSm"><span>公式LINEアカウント</span></a>
-            <br>
-            <p class="hp_mtMd">
-                ご予約はこちら
-            </p>
-            <a href="https://beauty.hotpepper.jp/kr/slnH000501559/" class="el_btn hp_mtSm"><span>HOTPEPPER
-                    BEAUTY</span></a>
         </div>
     </div>
 </section>

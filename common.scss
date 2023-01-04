@@ -63,7 +63,7 @@ $green: #52b2ac;
 .el_section_ttl {
   color: $navy;
   text-align: center;
-  font-size: 3rem;
+  font-size: 2rem;
   font-weight: 500;
   letter-spacing: 0.2em;
   position: relative;
@@ -75,7 +75,7 @@ $green: #52b2ac;
     background-color: $navy;
     transform: rotate(30deg);
     position: absolute;
-    top: 50px;
+    top: 40px;
     left: 50%;
     transform: translateX(-50%), rotate(30deg);
   }
@@ -109,7 +109,7 @@ $green: #52b2ac;
 .el_page_ttl {
   color: $navy;
   text-align: center;
-  font-size: 3rem;
+  font-size: 2rem;
   font-weight: 500;
   letter-spacing: 0.2em;
   position: relative;

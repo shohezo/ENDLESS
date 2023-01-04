@@ -52,7 +52,7 @@ img {
 .el_section_ttl {
   color: #272534;
   text-align: center;
-  font-size: 3rem;
+  font-size: 2rem;
   font-weight: 500;
   letter-spacing: 0.2em;
   position: relative;
@@ -67,7 +67,7 @@ img {
   -webkit-transform: rotate(30deg);
           transform: rotate(30deg);
   position: absolute;
-  top: 50px;
+  top: 40px;
   left: 50%;
   -webkit-transform: translateX(-50%), rotate(30deg);
           transform: translateX(-50%), rotate(30deg);
@@ -106,7 +106,7 @@ img {
 .el_page_ttl {
   color: #272534;
   text-align: center;
-  font-size: 3rem;
+  font-size: 2rem;
   font-weight: 500;
   letter-spacing: 0.2em;
   position: relative;
