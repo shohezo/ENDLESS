@@ -106,49 +106,49 @@ Template Name:ホワイトニングページ
                         <p class="bl_card_price">
                             <span>税込 </span>5,478 <span>円</span>
                         </p>
-                        <p>回数／1回
+                        <p>一回あたり／5,478円
                         </p>
                     </div>
                 </div>
                 <!-- /.bl_card -->
                 <div class="bl_card hp_mbMd">
                     <div class="bl_card_body">
-                        <h3 class="bl_card_ttl">回数制（4回）</h3>
+                        <h3 class="bl_card_ttl">回数制（3回）</h3>
                         <!-- <p class="bl_card_des">
                             顔・VIOを含む、すべての全身部位を脱毛
                         </p> -->
                         <p class="bl_card_price">
-                            <span>税別 </span>17,600 <span>円〜</span>
+                            <span>税込 </span>13,200 <span>円〜</span>
                         </p>
-                        <p>回数／4回
+                        <p>一回あたり／4,400円
                         </p>
                     </div>
                 </div>
                 <!-- /.bl_card -->
                 <div class="bl_card">
                     <div class="bl_card_body">
-                        <h3 class="bl_card_ttl hp_tac">フリーパス制<br class="hp_br-sp">（1ヶ月）</h3>
+                        <h3 class="bl_card_ttl">回数制（6回）</h3>
                         <!-- <p class="bl_card_des">
                             顔・VIOを含む、全身の部位から5箇所をセレクトしてお手入れ
                         </p> -->
                         <p class="bl_card_price">
-                            <span>税込 </span>32,000 <span>円</span>
+                            <span>税込 </span>26,400 <span>円</span>
                         </p>
-                        <p>回数／無制限
+                        <p>一回あたり／4,000円
                         </p>
                     </div>
                 </div>
                 <!-- /.bl_card -->
                 <div class="bl_card">
                     <div class="bl_card_body">
-                        <h3 class="bl_card_ttl hp_tac">フリーパス制<br class="hp_br-sp">（12ヶ月）</h3>
+                        <h3 class="bl_card_ttl">1ヶ通い放題</h3>
                         <!-- <p class="bl_card_des">
                             すべての全身部位脱毛と最新のホワイトニングが通い放題
                         </p> -->
                         <p class="bl_card_price">
-                            <span>税込 </span>198,000 <span>円</span>
+                            <span>税込 </span>32,780 <span>円</span>
                         </p>
-                        <p>回数／無制限
+                        <p>一回あたり／- 円
                         </p>
                     </div>
                 </div>
