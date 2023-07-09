@@ -228,7 +228,7 @@ beginner
   }
 }
 
-@media screen and(max-width:959px) {
+@media screen and (max-width: 959px) {
   .bl_section {
     display: block;
   }
@@ -691,6 +691,19 @@ access
       margin-bottom: 1rem;
       margin-right: auto;
       margin-left: auto;
+    }
+  }
+  .recommend {
+    border: 2px solid orange;
+    position: relative;
+    h4 {
+      position: absolute;
+      top: 0px;
+      left: 0px;
+      background-color: orange;
+      color: white;
+      font-weight: bold;
+      padding: 4px 5px;
     }
   }
   .bl_card_price {

@@ -139,7 +139,7 @@ Template Name:ホワイトニングページ
                     </div>
                 </div>
                 <!-- /.bl_card -->
-                <div class="bl_card">
+                <div class="bl_card recommend">
                     <div class="bl_card_body">
                         <h3 class="bl_card_ttl">1ヶ通い放題</h3>
                         <!-- <p class="bl_card_des">
@@ -151,6 +151,7 @@ Template Name:ホワイトニングページ
                         <p>一回あたり／- 円
                         </p>
                     </div>
+                    <h4>オススメ</h4>
                 </div>
                 <!-- /.bl_card -->
             </div>
