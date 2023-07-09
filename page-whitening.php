@@ -99,7 +99,7 @@ Template Name:ホワイトニングページ
             <div class="bl_cardUnit bl_cardUnit__col2 hp_jcc">
                 <div class="bl_card hp_mbMd">
                     <div class="bl_card_body">
-                        <h3 class="bl_card_ttl">回数制（1回）</h3>
+                        <h3 class="bl_card_ttl">1回コース</h3>
                         <!-- <p class="bl_card_des">
                             顔・VIOを含む、すべての全身部位脱毛が通い放題
                         </p> -->
@@ -113,7 +113,7 @@ Template Name:ホワイトニングページ
                 <!-- /.bl_card -->
                 <div class="bl_card hp_mbMd">
                     <div class="bl_card_body">
-                        <h3 class="bl_card_ttl">回数制（3回）</h3>
+                        <h3 class="bl_card_ttl">3回コース</h3>
                         <!-- <p class="bl_card_des">
                             顔・VIOを含む、すべての全身部位を脱毛
                         </p> -->
@@ -127,7 +127,7 @@ Template Name:ホワイトニングページ
                 <!-- /.bl_card -->
                 <div class="bl_card">
                     <div class="bl_card_body">
-                        <h3 class="bl_card_ttl">回数制（6回）</h3>
+                        <h3 class="bl_card_ttl">6回コース</h3>
                         <!-- <p class="bl_card_des">
                             顔・VIOを含む、全身の部位から5箇所をセレクトしてお手入れ
                         </p> -->
