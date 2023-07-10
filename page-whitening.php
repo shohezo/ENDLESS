@@ -104,9 +104,9 @@ Template Name:ホワイトニングページ
                             顔・VIOを含む、すべての全身部位脱毛が通い放題
                         </p> -->
                         <p class="bl_card_price">
-                            <span>税込 </span>5,478 <span>円</span>
+                            <span>税抜 </span>4,980 <span>円</span>
                         </p>
-                        <p>一回あたり／5,478円
+                        <p>一回あたり／4,980円
                         </p>
                     </div>
                 </div>
@@ -118,9 +118,9 @@ Template Name:ホワイトニングページ
                             顔・VIOを含む、すべての全身部位を脱毛
                         </p> -->
                         <p class="bl_card_price">
-                            <span>税込 </span>13,200 <span>円〜</span>
+                            <span>税抜 </span>12,000 <span>円</span>
                         </p>
-                        <p>一回あたり／4,400円
+                        <p>一回あたり／4,000円
                         </p>
                     </div>
                 </div>
@@ -132,9 +132,9 @@ Template Name:ホワイトニングページ
                             顔・VIOを含む、全身の部位から5箇所をセレクトしてお手入れ
                         </p> -->
                         <p class="bl_card_price">
-                            <span>税込 </span>26,400 <span>円</span>
+                            <span>税抜 </span>21,600 <span>円</span>
                         </p>
-                        <p>一回あたり／4,000円
+                        <p>一回あたり／3,600円
                         </p>
                     </div>
                 </div>
@@ -146,7 +146,7 @@ Template Name:ホワイトニングページ
                             すべての全身部位脱毛と最新のホワイトニングが通い放題
                         </p> -->
                         <p class="bl_card_price">
-                            <span>税込 </span>32,780 <span>円</span>
+                            <span>税抜 </span>29,800 <span>円</span>
                         </p>
                         <p>一回あたり／- 円
                         </p>
