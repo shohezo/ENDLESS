@@ -141,7 +141,7 @@ Template Name:ホワイトニングページ
                 <!-- /.bl_card -->
                 <div class="bl_card recommend">
                     <div class="bl_card_body">
-                        <h3 class="bl_card_ttl">1ヶ通い放題</h3>
+                        <h3 class="bl_card_ttl">1ヶ月通い放題</h3>
                         <!-- <p class="bl_card_des">
                             すべての全身部位脱毛と最新のホワイトニングが通い放題
                         </p> -->
@@ -199,9 +199,9 @@ Template Name:ホワイトニングページ
             <br>
             <a href="https://lin.ee/L4XhGzx" class="el_btn hp_mtSm"><span>公式LINEアカウント</span></a>
             <br>
-            <p class="hp_mtMd">
+            <!-- <p class="hp_mtMd">
                 ご予約はこちら
-            </p>
+            </p> -->
             <a href="https://beauty.hotpepper.jp/kr/slnH000501559/" class="el_btn hp_mtSm"><span>HOTPEPPER
                     BEAUTY</span></a>
         </div>

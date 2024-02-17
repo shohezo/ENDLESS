@@ -18,6 +18,21 @@ Template Name: フロントページ
         </div>
     </div>
 </div>
+<!-- news -->
+<section class="ly_section hp_ptLg hp_pbLg" id="news">
+    <div class="ly_inner">
+        <h2 class="el_section_ttl hp_mbMd">NEWS</h2>
+        <div class="bl_section hp_ptSm">
+            <?php if(have_posts()):while(have_posts()):the_post(); ?>
+            <div class="bl_section_body hp_mbSm">
+                <div class="bl_section_date"><?php echo get_the_date('Y.m.d'); ?></div>
+                <a href="<?php the_permalink();?>" class="bl_section_header"><?php the_title(); ?></a>
+            </div>
+            <?php endwhile;endif; ?>
+        </div>
+        <a href="<?php bloginfo('url');?>/news-archive" class="el_btn hp_centering hp_mtMd"><span>Read More</span></a>
+    </div>
+</section>
 <!-- concept -->
 <section class="ly_section hp_ptLg hp_pbLg" id="concept">
     <div class="ly_inner">
@@ -145,21 +160,6 @@ Template Name: フロントページ
     <img class="bg3" src="<?php bloginfo('template_url');?>/img/treatment.jpg" alt="施術中の画像" />
     <img class="bg4" src="<?php bloginfo('template_url');?>/img/sea.jpg" alt="波の画像" />
 </div>
-<!-- news -->
-<section class="ly_section hp_ptLg hp_pbLg" id="news">
-    <div class="ly_inner">
-        <h2 class="el_section_ttl hp_mbMd">NEWS</h2>
-        <div class="bl_section hp_ptSm">
-            <?php if(have_posts()):while(have_posts()):the_post(); ?>
-            <div class="bl_section_body hp_mbSm">
-                <div class="bl_section_date"><?php echo get_the_date('Y.m.d'); ?></div>
-                <a href="<?php the_permalink();?>" class="bl_section_header"><?php the_title(); ?></a>
-            </div>
-            <?php endwhile;endif; ?>
-        </div>
-        <a href="<?php bloginfo('url');?>/news-archive" class="el_btn hp_centering hp_mtMd"><span>Read More</span></a>
-    </div>
-</section>
 <!-- access -->
 <section class="ly_section hp_ptLg hp_pbSm" id="access">
     <div class="ly_inner">
@@ -173,10 +173,7 @@ Template Name: フロントページ
             <br>
             <a href="https://lin.ee/L4XhGzx" class="el_btn el_btn__line hp_mtSm"><img
                     src="<?php bloginfo('template_url');?>/img/LINE_Brand_icon.png" alt=""><span>公式LINEアカウント</span></a>
-            <br>
-            <p class=" hp_mtMd">
-                ご予約はこちら
-            </p>
+            <br>    
             <a href="https://beauty.hotpepper.jp/kr/slnH000501559/" class="el_btn hp_mtSm"><span>HOTPEPPER
                     BEAUTY</span></a>
             <p class="hp_mtMd"><i class="fa-solid fa-location-dot" style="margin-right: 10px"></i>福岡県福岡市博多区博多駅東1-13-17

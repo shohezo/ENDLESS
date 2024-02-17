@@ -17,9 +17,9 @@ Template Name:コンタクトページ
             <a href="https://lin.ee/L4XhGzx" class="el_btn el_btn__line hp_mtSm"><img
                     src="<?php bloginfo('template_url');?>/img/LINE_Brand_icon.png" alt=""><span>公式LINEアカウント</span></a>
             <br>
-            <p class=" hp_mtMd">
+            <!-- <p class=" hp_mtMd">
                 ご予約はこちら
-            </p>
+            </p> -->
             <a href="https://beauty.hotpepper.jp/kr/slnH000501559/" class="el_btn hp_mtSm"><span>HOTPEPPER
                     BEAUTY</span></a>
         </div>
